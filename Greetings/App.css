@@ -1,0 +1,26 @@
+.P1 {
+  margin-top: 150px;
+  text-align: center;
+  font-size: 175%;
+  background: maroon;
+  color: azure;
+  display: flex;
+  font-family: 'Times New Roman', Times, serif;
+}
+.P2{
+  margin-top: 50px;
+  text-align: right;
+  font-size: 75%;
+  background: orangered;
+  color: azure;
+  display: flex;
+  font-family: 'Times New Roman', Times, serif;
+}
+.clk{
+  text-align: center;
+  color: aliceblue;
+  font-size: 150%;
+}
+
+
+
